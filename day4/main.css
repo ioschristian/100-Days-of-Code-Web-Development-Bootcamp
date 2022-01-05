@@ -5,7 +5,7 @@ h1 {
 }
 
 p {
-    font-family: sans-serif;
+    font-family: Roboto, sans-serif;
     text-align: center;
     color: darkgray;
 }
@@ -16,4 +16,10 @@ a {
 
 a:hover{
     text-decoration: underline;
+}
+
+.one {
+    color: rgb(170, 96, 83);
+    font-weight: bold;
+    font-size: 52px;
 }
